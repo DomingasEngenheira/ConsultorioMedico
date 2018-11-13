@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "275848872803",
+    "firebase_url": "https://consultoriomedico-ed50f.firebaseio.com",
+    "project_id": "consultoriomedico-ed50f",
+    "storage_bucket": "consultoriomedico-ed50f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275848872803:android:82e9c9da977853ff",
+        "android_client_info": {
+          "package_name": "com.example.domingas.consultoriomedico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275848872803-6bgv01rvikf2l8bprqomv870ctupv41k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.domingas.consultoriomedico",
+            "certificate_hash": "5c7bdd00d12eda84db1cd78355cadbcebb5268d4"
+          }
+        },
+        {
+          "client_id": "275848872803-dv73j862hif9nmpjt0iub9v8ml6v2iee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrWXSbHIsWHvMbVSvCmGhHtCnLBXffkF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275848872803-dv73j862hif9nmpjt0iub9v8ml6v2iee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
